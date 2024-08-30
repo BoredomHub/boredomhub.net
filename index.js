@@ -1,3 +1,4 @@
+// Discord Button
 let _debounce = false;
 
 const footer = document.querySelector('footer');
@@ -10,6 +11,6 @@ discordLogo.addEventListener('click', e => {
   footer.classList.add("clicked");
   discordLogo.classList.add("clicked");
   setTimeout(() => {
-    window.location = 'https://discord.gg/qHy2HFqypR'
+    window.location = 'https://discord.gg/9kguZWDnc3'
   }, 500)
 })

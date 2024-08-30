@@ -1,5 +1,6 @@
 * {
-  font-family: "komika_bossregular", Arial, sans-serif;
+  font-family: "Tw Cen MT Condensed Extra Bold", Arial, sans-serif;
+  font-weight: bolder;
   margin: 0;
   padding: 0;
 }
@@ -19,7 +20,7 @@ body {
 }
 
 .header {
-  height: 25vh;
+  height: 10vh;
 }
 
 .sub-header {
